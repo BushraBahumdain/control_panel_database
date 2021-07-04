@@ -1,2 +1,5 @@
-# control_panel_database
-the database that stores the robot directions and then retrieves it.
+# Control Panel Database
+The database that stores the robot directions and then retrieves it.
+
+# Usage
+controlPanel table is dedicated to store the direction values when the arrow button is clicked. 
